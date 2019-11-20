@@ -7,7 +7,7 @@
         {
           "name": "EECS 473 Boards",
           "architecture": "avr",
-          "version": "69.69.6.9",
+          "version": "69.69.6",
           "category": "EECS 473",
           "url": "https://github.com/donorconohue/EECS-473-Project/raw/master/eecs473_boards.zip",
           "archiveFileName": "eecs473_boards.zip",
