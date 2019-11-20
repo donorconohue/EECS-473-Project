@@ -11,8 +11,8 @@
           "category": "EECS 473",
           "url": "https://github.com/donorconohue/EECS-473-Project/raw/master/eecs473_boards.zip",
           "archiveFileName": "eecs473_boards.zip",
-          "checksum": "SHA-256:74dc81c8147e8ba9e3befa4f9d5ee6f0f2245ede5aff0e62c27f292e90631cb2",
-          "size": "6557886",
+          "checksum": "SHA-256:34ab9a53c9fc2c31b1155a5fcad173a7b350a3ffb05185e22cd9b6edd7defc15",
+          "size": "6557889",
           "boards": [
             {"name": "IoTuinoHomeduino"}
           ],
