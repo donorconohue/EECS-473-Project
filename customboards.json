@@ -8,10 +8,7 @@
           "name": "EECS 473 Boards",
           "architecture": "avr",
           "version": "1.8.1",
-          "category": "Arduino",
-          "help": {
-            "online": "http://www.arduino.cc/en/Reference/HomePage"
-          },
+          "category": "EECS 473",
           "url": "https://github.com/donorconohue/EECS-473-Project/raw/master/eecs473_boards.zip",
           "archiveFileName": "eecs473_boards.zip",
           "checksum": "SHA-256:4d97fc9e695b9a6d06428bbe03dca247744515aa13061888df247924bdc9ab84",
