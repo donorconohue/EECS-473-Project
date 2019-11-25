@@ -7,12 +7,12 @@
         {
           "name": "EECS 473 Boards",
           "architecture": "avr",
-          "version": "69.69.6",
+          "version": "69.69.69",
           "category": "EECS 473",
           "url": "https://github.com/donorconohue/EECS-473-Project/raw/master/eecs473_boards.zip",
           "archiveFileName": "eecs473_boards.zip",
-          "checksum": "SHA-256:34ab9a53c9fc2c31b1155a5fcad173a7b350a3ffb05185e22cd9b6edd7defc15",
-          "size": "6557889",
+          "checksum": "SHA-256:4d753b13a21115e23f6153807ef86a7b1e785fa6c5cef3fb634a046ae4ff0f77",
+          "size": "6554981",
           "boards": [
             {"name": "IoTuinoHomeduino"}
           ],
